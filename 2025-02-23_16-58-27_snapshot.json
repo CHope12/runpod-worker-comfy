@@ -1,0 +1,26 @@
+{
+    "comfyui": "236bda26830d719843ba9b5703894297f67f6704",
+    "git_custom_nodes": {
+        "https://github.com/pythongosssss/ComfyUI-Custom-Scripts": {
+            "hash": "bbda5e52ad580c13ceaa53136d9c2bed9137bd2e",
+            "disabled": false
+        },
+        "https://github.com/ssitu/ComfyUI_UltimateSDUpscale": {
+            "hash": "ff3fdfeee03de46d4462211cffd165d27155e858",
+            "disabled": false
+        },
+        "https://github.com/FlyingFireCo/tiled_ksampler": {
+            "hash": "d954379b188efd8d66f4280878a7b582038729e5",
+            "disabled": false
+        },
+        "https://github.com/spinagon/ComfyUI-seamless-tiling": {
+            "hash": "c06e4e7ef9f796f6567116dbfed7f32e238c8437",
+            "disabled": false
+        },
+        "https://github.com/ltdrdata/ComfyUI-Manager.git": {
+            "hash": "917a3f59ed7fced019e148e2ee51ce5b2186320e",
+            "disabled": false
+        }
+    },
+    "file_custom_nodes": []
+}
